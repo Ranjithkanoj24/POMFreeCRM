@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-04-11T11:02:49Z" name="Default suite" finished-at="2018-04-11T11:03:21Z" duration-ms="31956">
+    <groups>
+    </groups>
+    <test started-at="2018-04-11T11:02:49Z" name="Default test" finished-at="2018-04-11T11:03:21Z" duration-ms="31956">
+      <class name="com.freecrm.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.freecrm.testcases.LoginPageTest@2e377400]" started-at="2018-04-11T11:02:49Z" name="setUp" finished-at="2018-04-11T11:03:07Z" duration-ms="17364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginCheckTest()[pri:4, instance:com.freecrm.testcases.LoginPageTest@2e377400]" started-at="2018-04-11T11:03:07Z" name="loginCheckTest" finished-at="2018-04-11T11:03:21Z" duration-ms="13838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheckTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.testcases.LoginPageTest@2e377400]" started-at="2018-04-11T11:03:21Z" name="tearDown" finished-at="2018-04-11T11:03:21Z" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
